@@ -1,8 +1,8 @@
-# EV Infrastructure Planner — Flutter App
+# EV Infrastructure Planner — Website
 
-Aplikasi mobile **Decision Support System (DSS)** untuk perencanaan lokasi SPKLU (Stasiun Pengisian Kendaraan Listrik Umum) berbasis Business Intelligence.
+Website **Decision Support System (DSS)** untuk perencanaan lokasi SPKLU (Stasiun Pengisian Kendaraan Listrik Umum) berbasis Business Intelligence.
 
-> Proyek UTS Business Intelligence — Kelompok 5
+> Proyek UAS Mata Kuliah Business Intelligence — Kelompok 5
 
 ---
 
@@ -129,7 +129,7 @@ Berdasarkan **Electric Vehicle Population Data** (Washington State, USA)
 
 ---
 
-## Anggota Pengembang Aplikasi
+## Anggota Pengembang Wesbite
 
 **Kelompok 5 — UAS Business Intelligence**
 | Nama | NIM | Kelas |
